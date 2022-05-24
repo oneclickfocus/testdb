@@ -39,7 +39,7 @@ LOCK TABLES `com_vtiger_workflow_activatedonce` WRITE;
 UNLOCK TABLES;
 
 --
--- Table structure for table `com_vtiger_workflow_tasktypes`
+-- Table structure for table `vtiger_workflow_tasktypes`
 --
 
 DROP TABLE IF EXISTS `com_vtiger_workflow_tasktypes`;
